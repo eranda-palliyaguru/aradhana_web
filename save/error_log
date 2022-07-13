@@ -1,0 +1,41 @@
+[02-Jul-2022 22:14:27 Asia/Colombo] PHP Notice:  Undefined index: fuel in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 8
+[02-Jul-2022 22:24:06 Asia/Colombo] PHP Notice:  Undefined index: fuel in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 8
+[03-Jul-2022 21:48:20 Asia/Colombo] PHP Notice:  Undefined index: fuel in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 8
+[03-Jul-2022 21:58:25 Asia/Colombo] PHP Notice:  Undefined index: name in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 4
+[03-Jul-2022 21:58:25 Asia/Colombo] PHP Notice:  Undefined index: nic in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 5
+[03-Jul-2022 21:58:25 Asia/Colombo] PHP Notice:  Undefined index: phone in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 6
+[03-Jul-2022 21:58:25 Asia/Colombo] PHP Notice:  Undefined index: vehicle in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 7
+[03-Jul-2022 21:58:25 Asia/Colombo] PHP Notice:  Undefined index: type in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 9
+[03-Jul-2022 21:58:25 Asia/Colombo] PHP Notice:  Undefined index: email in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 10
+[03-Jul-2022 21:58:26 Asia/Colombo] PHP Notice:  Undefined variable: type_name in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 25
+[03-Jul-2022 21:58:26 Asia/Colombo] PHP Notice:  Undefined index: doc in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 39
+[03-Jul-2022 21:58:26 Asia/Colombo] PHP Notice:  Undefined index: doc in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 40
+[03-Jul-2022 21:58:26 Asia/Colombo] PHP Notice:  Undefined index: doc in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 41
+[03-Jul-2022 21:58:26 Asia/Colombo] PHP Notice:  Undefined index: doc in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 42
+[03-Jul-2022 22:24:38 Asia/Colombo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SET doc_parth=?
+  		WHERE id=?' at line 2 in /home/aradxfdg/public_html/sr/save/health_token_save.php:64
+Stack trace:
+#0 /home/aradxfdg/public_html/sr/save/health_token_save.php(64): PDO->prepare('UPDATE \r\n      ...')
+#1 {main}
+  thrown in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 64
+[03-Jul-2022 22:26:57 Asia/Colombo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SET doc_parth=?
+  		WHERE id=?' at line 2 in /home/aradxfdg/public_html/sr/save/health_token_save.php:64
+Stack trace:
+#0 /home/aradxfdg/public_html/sr/save/health_token_save.php(64): PDO->prepare('UPDATE \r\n      ...')
+#1 {main}
+  thrown in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 64
+[03-Jul-2022 22:39:50 Asia/Colombo] PHP Notice:  Undefined index: c0779 in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 4
+[03-Jul-2022 22:39:50 Asia/Colombo] PHP Notice:  Undefined variable: old_id in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 10
+[03-Jul-2022 22:44:27 Asia/Colombo] PHP Notice:  Undefined index: c0779 in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 5
+[03-Jul-2022 23:02:02 Asia/Colombo] PHP Notice:  Undefined index: vehicle in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 5
+[03-Jul-2022 23:02:03 Asia/Colombo] PHP Notice:  Undefined index: name in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 17
+[03-Jul-2022 23:02:03 Asia/Colombo] PHP Notice:  Undefined index: nic in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 18
+[03-Jul-2022 23:02:03 Asia/Colombo] PHP Notice:  Undefined index: phone in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 19
+[03-Jul-2022 23:02:03 Asia/Colombo] PHP Notice:  Undefined index: vehicle in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 20
+[03-Jul-2022 23:02:03 Asia/Colombo] PHP Notice:  Undefined index: type in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 22
+[03-Jul-2022 23:02:03 Asia/Colombo] PHP Notice:  Undefined index: email in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 23
+[03-Jul-2022 23:02:03 Asia/Colombo] PHP Notice:  Undefined variable: type_name in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 38
+[03-Jul-2022 23:02:03 Asia/Colombo] PHP Notice:  Undefined index: doc in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 51
+[03-Jul-2022 23:02:03 Asia/Colombo] PHP Notice:  Undefined index: doc in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 52
+[03-Jul-2022 23:02:03 Asia/Colombo] PHP Notice:  Undefined index: doc in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 53
+[03-Jul-2022 23:02:03 Asia/Colombo] PHP Notice:  Undefined index: doc in /home/aradxfdg/public_html/sr/save/health_token_save.php on line 54

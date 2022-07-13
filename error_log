@@ -1,0 +1,208 @@
+[02-Jul-2022 07:37:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'colorb69_1'@'localhost' (using password: YES) in /home/aradxfdg/public_html/sr/connect.php:17
+Stack trace:
+#0 /home/aradxfdg/public_html/sr/index.php(3): include()
+#1 {main}
+  thrown in /home/aradxfdg/public_html/sr/connect.php on line 17
+[02-Jul-2022 20:47:54 Asia/Colombo] PHP Warning:  include(fuel_dis.php): failed to open stream: No such file or directory in /home/aradxfdg/public_html/sr/index.php on line 23
+[02-Jul-2022 20:47:54 Asia/Colombo] PHP Warning:  include(fuel_dis.php): failed to open stream: No such file or directory in /home/aradxfdg/public_html/sr/index.php on line 23
+[02-Jul-2022 20:47:54 Asia/Colombo] PHP Warning:  include(): Failed opening 'fuel_dis.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/aradxfdg/public_html/sr/index.php on line 23
+[02-Jul-2022 20:55:31 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/token.php on line 2
+[02-Jul-2022 21:17:57 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/token.php on line 2
+[02-Jul-2022 21:20:18 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/token.php on line 2
+[02-Jul-2022 21:20:21 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/token.php on line 2
+[02-Jul-2022 21:38:58 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 21:40:06 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 21:41:10 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 21:50:30 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 21:53:54 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 21:54:32 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 21:57:15 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 21:59:36 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 22:01:53 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 22:02:04 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 22:03:50 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 22:10:21 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 22:13:51 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 22:14:28 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 22:15:10 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 22:24:07 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 23:25:55 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 23:32:15 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 23:32:51 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 23:32:57 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 23:36:11 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 23:39:15 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[02-Jul-2022 23:56:47 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 06:51:18 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 12:47:59 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 16:50:51 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 16:57:53 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 16:58:13 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 16:58:55 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 16:59:53 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 17:00:41 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 17:02:21 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 17:02:40 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 17:03:35 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 17:03:56 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 17:06:37 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 17:11:35 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 17:13:51 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 17:14:10 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 17:14:32 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 17:15:34 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 17:22:03 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 17:24:40 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 17:46:37 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 17:48:36 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 17:49:15 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 17:51:06 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 17:56:10 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 18:16:32 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 19:01:53 Asia/Colombo] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/aradxfdg/public_html/sr/fuel_dis.php on line 26
+[03-Jul-2022 19:01:53 Asia/Colombo] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/aradxfdg/public_html/sr/fuel_dis.php on line 26
+[03-Jul-2022 19:01:53 Asia/Colombo] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/aradxfdg/public_html/sr/fuel_dis.php on line 26
+[03-Jul-2022 19:01:53 Asia/Colombo] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/aradxfdg/public_html/sr/fuel_dis.php on line 26
+[03-Jul-2022 19:01:54 Asia/Colombo] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/aradxfdg/public_html/sr/fuel_dis.php on line 26
+[03-Jul-2022 19:17:19 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:17:19 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:17:19 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:17:19 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:17:19 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:18:46 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:18:47 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:18:47 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:18:47 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:18:47 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:19:12 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:19:12 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:19:12 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:19:12 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:19:12 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:20:41 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:20:42 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:20:42 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:20:42 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:20:42 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:21:04 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:21:04 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:21:05 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:21:05 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:21:05 Asia/Colombo] PHP Notice:  A non well formed numeric value encountered in /home/aradxfdg/public_html/sr/fuel_dis.php on line 31
+[03-Jul-2022 19:33:31 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 19:33:42 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 19:42:31 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 19:50:49 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 19:51:40 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 19:57:17 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 19:57:56 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 19:59:12 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 20:01:27 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 20:12:33 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 20:16:13 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 20:17:42 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 20:17:47 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 20:29:52 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 20:33:47 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 21:30:28 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 21:31:56 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 21:33:54 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 21:34:15 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 21:38:37 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 21:39:41 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 21:40:35 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 21:41:05 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 21:46:07 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 21:48:21 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 21:55:10 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 21:56:06 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 21:58:27 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 21:59:17 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 22:09:17 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 22:23:51 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 22:28:17 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 22:44:28 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[03-Jul-2022 23:02:04 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 7
+[04-Jul-2022 00:14:51 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[04-Jul-2022 00:15:41 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[04-Jul-2022 00:19:46 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 131
+[04-Jul-2022 00:20:57 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 131
+[04-Jul-2022 00:22:21 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 131
+[03-Jul-2022 18:58:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aradxfdg/public_html/sr/health_token.php on line 300
+[03-Jul-2022 18:59:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aradxfdg/public_html/sr/health_token.php on line 300
+[03-Jul-2022 18:59:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aradxfdg/public_html/sr/health_token.php on line 300
+[04-Jul-2022 00:30:19 Asia/Colombo] PHP Notice:  Undefined variable: vehicle in /home/aradxfdg/public_html/sr/health_token.php on line 133
+[04-Jul-2022 00:30:33 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[04-Jul-2022 00:30:33 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[04-Jul-2022 00:31:05 Asia/Colombo] PHP Notice:  Undefined variable: vehicle in /home/aradxfdg/public_html/sr/health_token.php on line 133
+[04-Jul-2022 00:33:15 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[04-Jul-2022 00:33:15 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[04-Jul-2022 00:50:46 Asia/Colombo] PHP Notice:  Undefined variable: action in /home/aradxfdg/public_html/sr/health_token.php on line 138
+[04-Jul-2022 00:50:46 Asia/Colombo] PHP Notice:  Undefined variable: action in /home/aradxfdg/public_html/sr/health_token.php on line 139
+[04-Jul-2022 00:50:46 Asia/Colombo] PHP Notice:  Undefined variable: action in /home/aradxfdg/public_html/sr/health_token.php on line 140
+[04-Jul-2022 08:53:53 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[04-Jul-2022 08:53:53 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[04-Jul-2022 09:08:09 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[04-Jul-2022 09:08:09 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[04-Jul-2022 09:17:52 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[04-Jul-2022 09:17:52 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[04-Jul-2022 09:45:01 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[04-Jul-2022 09:45:01 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[04-Jul-2022 09:51:32 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[04-Jul-2022 09:51:32 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[04-Jul-2022 10:01:35 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/v_health_token.php on line 44
+[04-Jul-2022 10:01:35 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/v_health_token.php on line 58
+[04-Jul-2022 10:01:40 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/v_health_token.php on line 44
+[04-Jul-2022 10:01:40 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/v_health_token.php on line 58
+[04-Jul-2022 10:01:43 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/v_health_token.php on line 44
+[04-Jul-2022 10:01:43 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/v_health_token.php on line 58
+[04-Jul-2022 10:02:40 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/v_health_token.php on line 26
+[04-Jul-2022 10:02:40 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/v_health_token.php on line 40
+[04-Jul-2022 10:03:41 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/v_health_token.php on line 26
+[04-Jul-2022 10:03:41 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/v_health_token.php on line 40
+[04-Jul-2022 10:07:42 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/v_health_token.php on line 26
+[04-Jul-2022 10:07:42 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/v_health_token.php on line 40
+[04-Jul-2022 10:10:19 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/v_health_token.php on line 26
+[04-Jul-2022 10:10:19 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/v_health_token.php on line 40
+[04-Jul-2022 10:49:41 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[04-Jul-2022 10:49:41 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[04-Jul-2022 14:58:20 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[04-Jul-2022 14:58:20 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[05-Jul-2022 10:43:11 Asia/Colombo] PHP Notice:  Undefined variable: vehicle in /home/aradxfdg/public_html/sr/health_token.php on line 133
+[05-Jul-2022 10:43:11 Asia/Colombo] PHP Notice:  Undefined variable: token in /home/aradxfdg/public_html/sr/health_token.php on line 136
+[05-Jul-2022 10:43:11 Asia/Colombo] PHP Notice:  Undefined variable: action in /home/aradxfdg/public_html/sr/health_token.php on line 139
+[05-Jul-2022 10:43:11 Asia/Colombo] PHP Notice:  Undefined variable: action in /home/aradxfdg/public_html/sr/health_token.php on line 140
+[05-Jul-2022 10:43:11 Asia/Colombo] PHP Notice:  Undefined variable: action in /home/aradxfdg/public_html/sr/health_token.php on line 141
+[05-Jul-2022 15:04:32 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[05-Jul-2022 15:04:32 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[05-Jul-2022 15:26:58 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[05-Jul-2022 15:26:58 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[05-Jul-2022 15:53:00 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[05-Jul-2022 15:53:00 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[05-Jul-2022 15:53:02 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[05-Jul-2022 15:53:02 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[05-Jul-2022 16:20:37 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[05-Jul-2022 16:20:37 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[05-Jul-2022 16:31:48 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/token_view.php on line 26
+[05-Jul-2022 16:31:48 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/token_view.php on line 40
+[05-Jul-2022 16:31:48 Asia/Colombo] PHP Notice:  Undefined variable: q in /home/aradxfdg/public_html/sr/token_view.php on line 164
+[05-Jul-2022 16:39:51 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[05-Jul-2022 16:39:51 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[05-Jul-2022 16:48:10 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[05-Jul-2022 16:48:10 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[05-Jul-2022 17:35:19 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[05-Jul-2022 17:35:19 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[05-Jul-2022 17:37:33 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[05-Jul-2022 17:37:33 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[05-Jul-2022 22:58:26 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[05-Jul-2022 22:58:26 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[05-Jul-2022 22:58:48 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[05-Jul-2022 22:58:48 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[05-Jul-2022 23:02:10 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/sr/health_token.php on line 44
+[05-Jul-2022 23:02:10 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/sr/health_token.php on line 58
+[06-Jul-2022 05:27:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aradxfdg/public_html/sr/token_view.php on line 264
+[06-Jul-2022 05:27:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aradxfdg/public_html/sr/token_view.php on line 264
+[07-Jul-2022 09:31:21 Asia/Colombo] PHP Notice:  Undefined index: mas in /home/aradxfdg/public_html/sr/index.php on line 31
+[07-Jul-2022 09:32:34 Asia/Colombo] PHP Notice:  Undefined index: mas in /home/aradxfdg/public_html/sr/index.php on line 31
+[07-Jul-2022 23:24:17 Asia/Colombo] PHP Notice:  Undefined index: id in /home/aradxfdg/public_html/health_token.php on line 44
+[07-Jul-2022 23:24:17 Asia/Colombo] PHP Notice:  Undefined variable: id in /home/aradxfdg/public_html/health_token.php on line 58
