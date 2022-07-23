@@ -32,7 +32,7 @@ while ($row = $stmt->fetch()){
 
     
     
-    
+    $diffl= '<span class="badge badge-success">online</span>';
 if($fuel == '4' or $fuel=='3'){ $f1='4'; $f2='3';}
 if($fuel == '1' or $fuel=='2'){ $f1='1'; $f2='2';}
 if($fuel == '5' or $fuel=='5'){ $f1='5'; $f2='5';}
