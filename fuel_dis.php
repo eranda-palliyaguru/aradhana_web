@@ -1,5 +1,6 @@
                     <div class="row">
 <?php 
+include("connect.php");
 $stmt = $db->query("SELECT * FROM fuel ");
 while ($row = $stmt->fetch()){
     $up_date=$row['up_date'];
