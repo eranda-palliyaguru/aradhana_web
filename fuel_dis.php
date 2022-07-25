@@ -23,12 +23,7 @@ while ($row = $stmt->fetch()){
 
     $diff=abs($to_time - $from_time);
      $diffm=abs($to_time - $from_time);
-    if($diffm < 60){ $diffl= '<span class="badge badge-info">'.$diff .'s ago</span>';}
-    if($diffm > 60){ $diffl= '<span class="badge badge-success">'. round($diff/60,0) .'m ago</span>';
-      if($diffm > 3600){ $diffl= '<span class="badge badge-warning">'. round($diff/ 3600,0) .'h ago</span>';
-        if($diffm > 86400){ $diffl= '<span class="badge badge-danger">'. round($diff/86400,0) .'d ago</span>';}
-    }
-    }
+
 
     
     
