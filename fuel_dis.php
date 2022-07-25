@@ -16,25 +16,13 @@ while ($row = $stmt->fetch()){
     }else{ $mas="<span style='color:green ;' class='info-box-number'>Stock Available</span>"; 
         $line_color="success";
     }
-    
-    $update=$row['date']." ".$row['time'];
-    $now=date('Y-m-d H:i:s');
-    $to_time = strtotime($update);
-    $from_time = strtotime($now);
-
-    $diff=abs($to_time - $from_time);
-     $diffm=abs($to_time - $from_time);
 
 
     
     
     $diffl= '<span class="badge badge-success">online</span>';
-if($fuel == '4' or $fuel=='3'){ $f1='4'; $f2='3';}
-if($fuel == '1' or $fuel=='2'){ $f1='1'; $f2='2';}
-if($fuel == '5' or $fuel=='5'){ $f1='5'; $f2='5';}
-$stmt1 = $db->query("SELECT count(id) FROM token  WHERE action='1' AND q='$q' ");
-                            while ($row1 = $stmt1->fetch())
-                            { $q=$row1['count(id)']; }
+
+
 ?>
                         
                         <div class="col-12 col-sm-6 col-md-4">
@@ -50,7 +38,7 @@ $stmt1 = $db->query("SELECT count(id) FROM token  WHERE action='1' AND q='$q' ")
                                             <div class="progress-bar bg-<?php echo $line_color; ?>" style="width: <?php echo $pr; ?>%"></div>
                                         </div>
                                         <?php echo $mas; ?>
-                                        <h5><span class="badge badge-danger">Active Token: <?php echo $q; ?></span></h5>
+                                        
                                     </div>
                                     <h6>Rs. <?php echo $row['price']; ?></h6>
                                 </div>
