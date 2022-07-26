@@ -22,7 +22,7 @@ while ($row = $stmt->fetch()){
     $stmt1 = $db->query("SELECT count(id) FROM sales WHERE type='$id_name' AND date='$date' AND volume < 4");
     while ($row1 = $stmt1->fetch()){ $bike=$row1['count(id)']; }
 
-    $stmt1 = $db->query("SELECT count(id) FROM sales WHERE type='$id_name' AND date='$date' AND volume < 15 AND volume > 4");
+    $stmt1 = $db->query("SELECT count(id) FROM sales WHERE type='$id_name' AND date='$date' AND volume < 7 AND volume > 4");
     while ($row1 = $stmt1->fetch()){ $tuk=$row1['count(id)']; }
 
     $pr=$value/$cap *100;
