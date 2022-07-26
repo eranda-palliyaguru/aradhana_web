@@ -99,11 +99,11 @@
 </body>
 <script src="https://code.jquery.com/jquery-2.1.1.min.js" type="text/javascript"></script>
 <script>
-$(document).ready(function() {
-    setInterval(function() {
-        $("#fuel_dis").load('fuel_dis.php')
-    }, 200000);
-});
+//$(document).ready(function() {
+   // setInterval(function() {
+       // $("#fuel_dis").load('fuel_dis.php')
+   // }, 200000);
+//});
 </script>
 
 </html>
