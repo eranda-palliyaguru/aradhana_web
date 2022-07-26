@@ -102,7 +102,7 @@
 $(document).ready(function() {
     setInterval(function() {
         $("#fuel_dis").load('fuel_dis.php')
-    }, 20000);
+    }, 200000);
 });
 </script>
 
