@@ -1,6 +1,7 @@
                     <div class="row">
 <?php 
 include("connect.php");
+date_default_timezone_set("Asia/Colombo");
 $stmt = $db->query("SELECT * FROM fuel ");
 while ($row = $stmt->fetch()){
     $up_date=$row['up_date'];
