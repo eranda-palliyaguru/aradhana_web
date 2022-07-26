@@ -8,7 +8,22 @@ while ($row = $stmt->fetch()){
     $cap=$row['cap'];
     $fuel=$row['id'];
     $q=$row['q'];
-    
+    $id_name=$row['id_name'];
+
+
+    $date=date('Y-m-d');
+    $stmt1 = $db->query("SELECT count(id) FROM sales WHERE type='$id_name' and date='$date'");
+    while ($row1 = $stmt1->fetch()){ $tot=$row1['count(id)']; }
+
+    $stmt1 = $db->query("SELECT count(id) FROM sales WHERE type='$id_name' AND date='$date' AND volume > 15");
+    while ($row1 = $stmt1->fetch()){ $car=$row1['count(id)']; }
+
+    $stmt1 = $db->query("SELECT count(id) FROM sales WHERE type='$id_name' AND date='$date' AND volume < 4");
+    while ($row1 = $stmt1->fetch()){ $bike=$row1['count(id)']; }
+
+    $stmt1 = $db->query("SELECT count(id) FROM sales WHERE type='$id_name' AND date='$date' AND volume < 15 AND volume > 4");
+    while ($row1 = $stmt1->fetch()){ $tuk=$row1['count(id)']; }
+
     $pr=$value/$cap *100;
     
     if($value < 550){ $mas="<span style='color:red ;' class='info-box-number'>Stock not sufficient</span>";
@@ -40,7 +55,16 @@ while ($row = $stmt->fetch()){
                                         <?php echo $mas; ?>
                                         
                                     </div>
-                                    <h6>Rs. <?php echo $row['price']; ?></h6>
+                                    <h6>Rs. <?php echo $row['price']; ?></h6><div class="row">
+                                    <?php 
+                                    if($tot > 0){
+                                    
+                                    echo '<span class="badge badge-secondary"><img style="width:60px;" src="img/car.png" alt="">'.$car.'</span>';
+                                    echo ' <span class="badge badge-secondary"><img style="width:32px;" src="img/tuk.png" alt="">'.$tuk.'</span>';
+                                    echo ' <span class="badge badge-secondary"><img style="width:35px;" src="img/Bike.png" alt="">'.$bike.'</span>';
+                                    }
+                                    ?>
+                                    </div>
                                 </div>
                                 <div class="pull-right box-tools">
                                 <?php echo $diffl; ?> 
