@@ -16,7 +16,7 @@ while ($row = $stmt->fetch()){
     $stmt1 = $db->query("SELECT count(id) FROM sales WHERE type='$id_name' and date='$date'");
     while ($row1 = $stmt1->fetch()){ $tot=$row1['count(id)']; }
 
-    $stmt1 = $db->query("SELECT count(id) FROM sales WHERE type='$id_name' AND date='$date' AND volume > 15");
+    $stmt1 = $db->query("SELECT count(id) FROM sales WHERE type='$id_name' AND date='$date' AND volume > 7");
     while ($row1 = $stmt1->fetch()){ $car=$row1['count(id)']; }
 
     $stmt1 = $db->query("SELECT count(id) FROM sales WHERE type='$id_name' AND date='$date' AND volume < 4");
